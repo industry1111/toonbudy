@@ -1,0 +1,11 @@
+export { default as HomePage } from './HomePage';
+export { default as EditorPage } from './EditorPage';
+export { default as ViewPage } from './ViewPage';
+export { default as LoginPage } from './LoginPage';
+export { default as SignupPage } from './SignupPage';
+export { default as MyPage } from './MyPage';
+export { default as TrashPage } from './TrashPage';
+export { default as SearchPage } from './SearchPage';
+export { default as SharePage } from './SharePage';
+export { default as OnboardingPage } from './OnboardingPage';
+export { default as NotFoundPage } from './NotFoundPage';
